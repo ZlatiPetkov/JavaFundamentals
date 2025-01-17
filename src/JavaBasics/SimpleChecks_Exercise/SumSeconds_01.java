@@ -1,4 +1,4 @@
-package SimpleChecks_Exercise;
+package JavaBasics.SimpleChecks_Exercise;
 
 import java.util.Scanner;
 

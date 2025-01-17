@@ -1,4 +1,4 @@
-package ForLoop;
+package JavaBasics.ForLoop;
 
 import java.util.Scanner;
 

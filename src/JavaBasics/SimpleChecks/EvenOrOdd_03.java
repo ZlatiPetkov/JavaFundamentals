@@ -1,4 +1,4 @@
-package SimpleChecks;
+package JavaBasics.SimpleChecks;
 
 import java.util.Scanner;
 

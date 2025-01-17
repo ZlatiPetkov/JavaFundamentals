@@ -1,4 +1,4 @@
-package ComplexChecks_Exercise;
+package JavaBasics.ComplexChecks_Exercise;
 
 import java.util.Scanner;
 

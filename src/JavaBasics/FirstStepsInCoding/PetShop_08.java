@@ -1,4 +1,4 @@
-package FirstStepsInCoding;
+package JavaBasics.FirstStepsInCoding;
 import java.util.Scanner;
 
 public class PetShop_08 {

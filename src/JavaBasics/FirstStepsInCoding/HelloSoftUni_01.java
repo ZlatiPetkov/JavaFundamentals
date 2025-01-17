@@ -1,4 +1,4 @@
-package FirstStepsInCoding;
+package JavaBasics.FirstStepsInCoding;
 
 public class HelloSoftUni_01 {
 

@@ -1,4 +1,4 @@
-package ForLoop_Exercise;
+package JavaBasics.ForLoop_Exercise;
 
 public class NumbersTo1000_01 {
     public static void main(String[] args) {

@@ -1,5 +1,4 @@
-package FirstStepsInCoding;
-import java.util.Scanner;
+package JavaBasics.FirstStepsInCoding;
 
 public class InchesToCentimeters_04 {
     public static void main(String[] args) {

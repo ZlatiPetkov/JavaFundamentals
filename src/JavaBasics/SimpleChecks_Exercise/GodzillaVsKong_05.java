@@ -1,6 +1,5 @@
-package SimpleChecks_Exercise;
+package JavaBasics.SimpleChecks_Exercise;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class GodzillaVsKong_05 {
